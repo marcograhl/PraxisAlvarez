@@ -8,3 +8,9 @@
 {/each}
 
 <h1>{i('intro')}</h1>
+
+
+<style>
+
+
+</style>

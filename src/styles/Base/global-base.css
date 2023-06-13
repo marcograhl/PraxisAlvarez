@@ -1,7 +1,8 @@
-@layer base{
 
+@layer base{
   body{
-    background-color: green;
+    background-color: white;
+
   }
 
 }

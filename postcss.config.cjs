@@ -6,6 +6,7 @@ const config = {
 	plugins: [
 		require('postcss-import-ext-glob'),
 		atImport(),
+		require('tailwindcss'),
 		postcssPresetEnv({
 			stage: 2,
 			features: {
